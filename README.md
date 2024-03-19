@@ -1,5 +1,5 @@
-# uECG
-uECG - very small wearable ECG device that sends raw and processed data over BLE
+# moyoECG 
+moyoCG - very small wearable ECG device that sends raw and processed data over BLE
 
 **This is an old repository - new version is located here: https://github.com/ultimaterobotics/uECG (and is divided into multiple repositories for relevant parts of the project, links are in description)**
 
