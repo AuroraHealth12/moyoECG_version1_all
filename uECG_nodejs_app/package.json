@@ -1,5 +1,5 @@
 {
-  "name": "uecg_local",
+  "name": "moyoecg_local",
   "version": "1.0.0",
   "description": "ECG local web viewer",
   "main": "server.js",
